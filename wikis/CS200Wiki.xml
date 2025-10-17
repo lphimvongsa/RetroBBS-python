@@ -1,0 +1,19 @@
+<xml>
+    <page>
+        <title>CS200 Policies</title>
+        <id>26</id>
+        <text>
+           You have up to ten late days. The   
+           [[syllabus|google detail detail detail]] 
+           has more solid detail.
+        </text>
+    </page>
+    <page>
+        <title>CS200 Collaboration Details</title>
+        <id>28</id>
+        <text>
+           Students may discuss ideas with others, but your submitted code must be yours alone.
+           This is to help solidify your understanding.
+        </text>
+    </page>
+</xml> 

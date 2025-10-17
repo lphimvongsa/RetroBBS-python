@@ -1,0 +1,15 @@
+certifi
+charset-normalizer
+click
+idna
+iniconfig
+joblib
+nltk
+numpy
+packaging
+pluggy
+pytest
+regex
+requests
+tqdm
+urllib3
