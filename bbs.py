@@ -37,7 +37,7 @@ def connect(username: str):
     username -- the name of the user who is connecting (they will be the
                 poster of messages added until they disconnect)
     """
-    # TODO: Fill in!
+    
     global current_user
     current_user = username
 
@@ -53,7 +53,7 @@ def disconnect():
     """
     global current_user
     current_user = ""
-    # TODO: Fill in!
+    
 
 def switch_user(username: str):
     """
@@ -61,7 +61,7 @@ def switch_user(username: str):
 
     You may assume the username is well-formed (ie, within the character limits)
     """
-    # TODO: Fill in!
+    
     global current_user
     current_user = username
 
@@ -91,7 +91,7 @@ def clean_reset():
             f.write(str(k) + "\n")
     
 
-    # # TODO:  If you need to reset other global variables, reset them here!
+    
     current_user = ""
 
 
